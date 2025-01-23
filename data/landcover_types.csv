@@ -1,0 +1,15 @@
+0,255,255,255,255,Clouds or No data
+62,210,0,0,255,Artificial surfaces and constructions
+73,253,211,39,255,Cultivated areas
+75,176,91,16,255,Vineyards
+82,35,152,0,255,Broadleaf tree cover
+83,8,98,0,255,Coniferous tree cover
+102,249,150,39,255,Herbaceous vegetation
+103,141,139,0,255,Moors and Heathland
+104,95,53,6,255,Sclerophyllous vegetation 
+105,149,107,196,255,Marshes
+106,77,37,106,255,Peatbogs 
+121,154,154,154,255,Natural material surfaces 
+123,106,255,255,255,Permanent snow covered surfaces
+162,20,69,249,255,Water bodies
+255,255,255,255,255,No data
