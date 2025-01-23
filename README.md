@@ -8,6 +8,10 @@ Earth observation from satellite sensors offers the possibility to monitor natur
 
 # Usage and Requirements
 
+## Trained model
+
+The GANFilling trained model can be found in trained_models/GANFilling.pt. When cloning the repository, install `git lfs install`, followed by `git lfs fetch`and `git lfs pull` to correctly download the file. 
+
 ## Train
 
 `
